@@ -1,0 +1,29 @@
+KONSEP GAME 
+TUGAS PRAKTIK PEMROGRAMAN 1
+
+Nama  : GUNAWAN WIBISINO
+Kelas : 1-D4 Game Technology
+NRP   : 4210171002
+
+* JUDUL : MINESWEEPER
+* DESKRIPSI : Game sederhana yang cara memainkannya cukup dengan memilih kotak untuk mencari point
+* SCORE : Didapatkan dengan cara mengumpulkan point
+* WIN/LOSE : Kondisi menang terjadi bila dengan beruntung memilih kotak yang aman dari bom
+             Kondisi kalah terjadi bila pemain memilih kotak yang berisi bom 
+*TINGKATAN : Bila memungkinkan akan dibuat 3 tingkatan dalam game, yaitu :
+                1. Easy = berisi sepuluh kotak dan 1 kotak berisi bom  
+                2. Medium = berisi sepuluh kotak dan 3 kotak berisi bom
+                3. Hard = berisi sepuluh kotak dan 5 kotak berisi bom
+                
+Game cadangan ( bila dirasa game Minesweeper terlalu sulit untuk dibuat dalam waktu dekat )
+* JUDUL : Gunting, Batu, Ker
+* DESKRIPSI : Game sederhana tentang suit
+* SCORE : Didapatkan dengan cara mengalahkan bot
+*WIN/LOSE : Kondisi menang terjadi bila, pemain menggunakan gunting dan bot menggunakan kertas, 
+            pemain menggunakan kertas dan bot menggjnakan batu, pemain menggunakan batu dan bot menggunakan gunting
+            Dan untuk kondisi kalah bila pemain menggunakan yang lebih lemah daripada bot 
+            ( bisa dilihat di deskripsi kondisi menang 
+            
+
+
+
